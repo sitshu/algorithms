@@ -1,6 +1,6 @@
 /* Rotate an array of n elements to the right by k steps*
 Space = O(1)
-Complexity = O(n)
+Time Complexity = O(n)
 
 */
 
